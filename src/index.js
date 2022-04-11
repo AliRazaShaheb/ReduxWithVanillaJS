@@ -1,4 +1,5 @@
 import "./styles.css";
+// counter with vanilla js
 
 const counter = document.getElementById("counter");
 const increment = document.getElementById("increment");
